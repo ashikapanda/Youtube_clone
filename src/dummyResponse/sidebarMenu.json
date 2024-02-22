@@ -1,0 +1,830 @@
+{
+  "responseContext": {
+    "serviceTrackingParams": [
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20240110.01.00"
+          },
+          {
+            "key": "yt_li",
+            "value": "0"
+          },
+          {
+            "key": "GetWebMainAppGuide_rid",
+            "value": "0x5fdeb193f923b575"
+          }
+        ]
+      },
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          },
+          {
+            "key": "e",
+            "value": "23804281,23946420,23966208,23983296,23986029,23998056,24004644,24007246,24034168,24036948,24077241,24080738,24120820,24135310,24140247,24166867,24181174,24187377,24208765,24241378,24255543,24255545,24288664,24290971,24367580,24377598,24377910,24382552,24385728,24386593,24387949,24390675,24428788,24428941,24428945,24439361,24451319,24453989,24458839,24468724,24485421,24499532,24506515,24506784,24515389,24515423,24524098,24537200,24539025,24542367,24542452,24546059,24546075,24548627,24548629,24549786,24550458,24559327,24560416,24566687,24694842,24697068,24698452,24699899,51003636,51004018,51006181,51009781,51009900,51010235,51012165,51012659,51014091,51016856,51017346,51019626,51020570,51021953,51025415,51026715,51027870,51028271,51029412,51030169,51033399,51033577,51035289,51036511,51037540,51037819,51037893,51038399,51038805,51039200,51041497,51045885,51045889,51048240,51048254,51048279,51049006,51049570,51050360,51052044,51052758,51053689,51055049,51057501,51057746,51059571,51059972,51060353,51061000,51061018,51063643,51063842,51064428,51065651,51069269,51070203,51070732,51072748,51074183,51074662,51074717,51074739,51075346,51076170,51077150,51078536,51078931,51079353,51079667,51080182,51080511,51080532,51080713,51080901,51081382,51083014,51083748,51084696,51086857,51087733,51087987,51088826,51089316,51089955,51090887,51091331,51091643,51092434,51092928,51093371,51094773"
+          }
+        ]
+      },
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.version",
+            "value": "2.20240110"
+          },
+          {
+            "key": "client.name",
+            "value": "WEB"
+          },
+          {
+            "key": "client.fexp",
+            "value": "24377910,51048254,51055049,51080182,51059972,51049570,51004018,24428945,51049006,51083748,51074739,24542367,24506784,51080713,51057501,24181174,24515423,51063842,51045885,24377598,51083014,51076170,24288664,51074717,51078931,51081382,51012165,51003636,51053689,51093371,51059571,51089955,51080901,24080738,51094773,51021953,51009900,24290971,51070732,23966208,51019626,51080532,51092928,24187377,51026715,24007246,51079353,24077241,51063643,24550458,24036948,24140247,51038399,24367580,24537200,51052758,24539025,51012659,24560416,51017346,51006181,51091331,24120820,24428788,51074183,24385728,51057746,24255545,24390675,51061018,51041497,24697068,51084696,24546059,51048279,24387949,23986029,23804281,51014091,51016856,24004644,51029412,23983296,51080511,24566687,51065651,51052044,51009781,51045889,51048240,24548629,51090887,51033577,24428941,51087987,24468724,51064428,51075346,23998056,51025415,24499532,51077150,24524098,24453989,51079667,24506515,51028271,51010235,51030169,24255543,24699899,24135310,51070203,23946420,51037893,24549786,51074662,24546075,51037540,24241378,51035289,51087733,51088826,51069269,24458839,51038805,51033399,51036511,51050360,24542452,24439361,24451319,24515389,51089316,51072748,24208765,51061000,24386593,51020570,51027870,24166867,24698452,51078536,24548627,24694842,51086857,51037819,51091643,51092434,24382552,24034168,24485421,51060353,24559327,51039200"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 3600,
+    "mainAppWebResponseContext": {
+      "loggedOut": true,
+      "trackingParam": "kx_fmPxhoPZRzjWfs-SKM4Zww_gRQLAosm03QYUOM4L3gczRgkuMMsLBwOcCE59TDtslLKPQ-SS"
+    },
+    "webResponseContextExtensionData": {
+      "hasDecorated": true
+    }
+  },
+  "items": [
+    {
+      "guideSectionRenderer": {
+        "items": [
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CB0Q8KgHGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 3854,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "FEwhat_to_watch"
+                }
+              },
+              "icon": {
+                "iconType": "WHAT_TO_WATCH"
+              },
+              "trackingParams": "CB0Q8KgHGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Home"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Home"
+                }
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "icon": {
+                "iconType": "TAB_SHORTS"
+              },
+              "trackingParams": "CBsQnIEJGAEiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Shorts"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Shorts"
+                }
+              },
+              "serviceEndpoint": {
+                "clickTrackingParams": "CBsQnIEJGAEiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/shorts/",
+                    "webPageType": "WEB_PAGE_TYPE_SHORTS",
+                    "rootVe": 37414
+                  }
+                },
+                "reelWatchEndpoint": {
+                  "playerParams": "8AEBuAQP",
+                  "overlay": {
+                    "reelPlayerOverlayRenderer": {
+                      "style": "REEL_PLAYER_OVERLAY_STYLE_SHORTS",
+                      "trackingParams": "CBwQsLUEIhMIjoWxlNTVgwMV-GVMCB14DARG",
+                      "reelPlayerNavigationModel": "REEL_PLAYER_NAVIGATION_MODEL_UNSPECIFIED"
+                    }
+                  },
+                  "params": "CA8%3D",
+                  "sequenceProvider": "REEL_WATCH_SEQUENCE_PROVIDER_RPC",
+                  "inputType": "REEL_WATCH_INPUT_TYPE_SEEDLESS",
+                  "loggingContext": {
+                    "vssLoggingContext": {
+                      "serializedContextData": "CgIIDA%3D%3D"
+                    },
+                    "qoeLoggingContext": {
+                      "serializedContextData": "CgIIDA%3D%3D"
+                    }
+                  },
+                  "ustreamerConfig": "CAw="
+                }
+              },
+              "isPrimary": true
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CBoQ8qgHGAIiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/feed/subscriptions",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 96368,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "FEsubscriptions"
+                }
+              },
+              "icon": {
+                "iconType": "SUBSCRIPTIONS"
+              },
+              "trackingParams": "CBoQ8qgHGAIiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Subscriptions"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Subscriptions"
+                }
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "trackingParams": "CBkQ5isYACITCI6FsZTU1YMDFfhlTAgdeAwERg=="
+      }
+    },
+    {
+      "guideSectionRenderer": {
+        "items": [
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CBgQ8agHGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/feed/you",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 6827,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "FElibrary",
+                  "params": "KgN5b3U%3D"
+                }
+              },
+              "icon": {
+                "iconType": "VIDEO_LIBRARY_WHITE"
+              },
+              "trackingParams": "CBgQ8agHGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "You"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "You"
+                }
+              },
+              "targetId": "library-guide-item",
+              "isPrimary": true
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CBcQ5KgHGAEiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/feed/history",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 6827,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "FEhistory"
+                }
+              },
+              "icon": {
+                "iconType": "WATCH_HISTORY"
+              },
+              "trackingParams": "CBcQ5KgHGAEiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "History"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "History"
+                }
+              },
+              "isPrimary": true
+            }
+          }
+        ],
+        "trackingParams": "CBYQ5isYASITCI6FsZTU1YMDFfhlTAgdeAwERg=="
+      }
+    },
+    {
+      "guideSigninPromoRenderer": {
+        "descriptiveText": {
+          "simpleText": "Sign in to like videos, comment, and subscribe."
+        },
+        "actionText": {
+          "simpleText": "Sign in"
+        },
+        "signInButton": {
+          "buttonRenderer": {
+            "style": "STYLE_SUGGESTIVE",
+            "size": "SIZE_DEFAULT",
+            "isDisabled": false,
+            "text": {
+              "simpleText": "Sign in"
+            },
+            "icon": {
+              "iconType": "AVATAR_LOGGED_OUT"
+            },
+            "navigationEndpoint": {
+              "clickTrackingParams": "CBUQ04AEIhMIjoWxlNTVgwMV-GVMCB14DARG",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en",
+                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                  "rootVe": 83769
+                }
+              },
+              "signInEndpoint": {
+                "hack": true
+              }
+            },
+            "trackingParams": "CBUQ04AEIhMIjoWxlNTVgwMV-GVMCB14DARG"
+          }
+        }
+      }
+    },
+    {
+      "guideSectionRenderer": {
+        "items": [
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CBQQv54JGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/feed/trending?bp=6gQJRkVleHBsb3Jl",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 6827,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "FEtrending",
+                  "params": "6gQJRkVleHBsb3Jl"
+                }
+              },
+              "icon": {
+                "iconType": "TRENDING"
+              },
+              "trackingParams": "CBQQv54JGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Trending"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Trending"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CBMQp4EJGAEiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ",
+                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                    "rootVe": 3611,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "UC-9-kyTW8ZkZNDHQJ6FgpwQ"
+                }
+              },
+              "icon": {
+                "iconType": "MUSIC"
+              },
+              "trackingParams": "CBMQp4EJGAEiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Music"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Music"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CBIQnOQDGAIiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/feed/storefront?bp=ogUCKAI%3D",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 6827,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "FEstorefront",
+                  "params": "ogUCKAI%3D"
+                }
+              },
+              "icon": {
+                "iconType": "CLAPPERBOARD"
+              },
+              "trackingParams": "CBIQnOQDGAIiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Movies"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Movies"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CBEQpIEJGAMiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/gaming",
+                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                    "rootVe": 3611,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "UCOpNcN46UbXVtpKMrmU4Abg"
+                }
+              },
+              "icon": {
+                "iconType": "GAMING_LOGO"
+              },
+              "trackingParams": "CBEQpIEJGAMiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Gaming"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Gaming"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CBAQqIEJGAQiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/channel/UCYfdidRxbB8Qhf0Nx7ioOYw",
+                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                    "rootVe": 3611,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "UCYfdidRxbB8Qhf0Nx7ioOYw"
+                }
+              },
+              "icon": {
+                "iconType": "NEWS"
+              },
+              "trackingParams": "CBAQqIEJGAQiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "News"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "News"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CA8QqoEJGAUiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/channel/UCEgdi0XIXXZ-qJOFPf4JSKw",
+                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                    "rootVe": 3611,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "UCEgdi0XIXXZ-qJOFPf4JSKw"
+                }
+              },
+              "icon": {
+                "iconType": "TROPHY"
+              },
+              "trackingParams": "CA8QqoEJGAUiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Sports"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Sports"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CA4Qo4EJGAYiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/channel/UCrpQ4p1Ql_hG8rKXIKM1MOQ",
+                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                    "rootVe": 3611,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "UCrpQ4p1Ql_hG8rKXIKM1MOQ"
+                }
+              },
+              "icon": {
+                "iconType": "FASHION_LOGO"
+              },
+              "trackingParams": "CA4Qo4EJGAYiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Fashion & Beauty"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Fashion & Beauty"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CA0QqeMJGAciEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/podcasts",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 6827,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "FEpodcasts_destination",
+                  "params": "qgcCCAE%3D"
+                }
+              },
+              "icon": {
+                "iconType": "BROADCAST"
+              },
+              "trackingParams": "CA0QqeMJGAciEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Podcasts"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Podcasts"
+                }
+              }
+            }
+          }
+        ],
+        "trackingParams": "CAwQ5isYAyITCI6FsZTU1YMDFfhlTAgdeAwERg==",
+        "formattedTitle": {
+          "simpleText": "Explore"
+        }
+      }
+    },
+    {
+      "guideSectionRenderer": {
+        "items": [
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CAsQtSwYACITCI6FsZTU1YMDFfhlTAgdeAwERg==",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/feed/guide_builder",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 6827,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "FEguide_builder"
+                }
+              },
+              "icon": {
+                "iconType": "ADD_CIRCLE"
+              },
+              "trackingParams": "CAsQtSwYACITCI6FsZTU1YMDFfhlTAgdeAwERg==",
+              "formattedTitle": {
+                "simpleText": "Browse channels"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Browse channels"
+                }
+              }
+            }
+          }
+        ],
+        "trackingParams": "CAoQ5isYBCITCI6FsZTU1YMDFfhlTAgdeAwERg=="
+      }
+    },
+    {
+      "guideSectionRenderer": {
+        "items": [
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CAkQmbcBGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/premium",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 11487,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "SPunlimited"
+                }
+              },
+              "icon": {
+                "iconType": "YOUTUBE_ROUND"
+              },
+              "trackingParams": "CAkQmbcBGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "YouTube Premium"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "YouTube Premium"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CAgQn4ACGAEiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://music.youtube.com/",
+                    "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                    "rootVe": 83769
+                  }
+                },
+                "urlEndpoint": {
+                  "url": "https://music.youtube.com",
+                  "target": "TARGET_NEW_WINDOW"
+                }
+              },
+              "icon": {
+                "iconType": "YOUTUBE_MUSIC"
+              },
+              "trackingParams": "CAgQn4ACGAEiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "YouTube Music"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "YouTube Music"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CAcQ48UCGAIiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://www.youtubekids.com/?source=youtube_web",
+                    "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                    "rootVe": 83769
+                  }
+                },
+                "urlEndpoint": {
+                  "url": "https://www.youtubekids.com?source=youtube_web",
+                  "target": "TARGET_NEW_WINDOW"
+                }
+              },
+              "icon": {
+                "iconType": "YOUTUBE_KIDS_ROUND"
+              },
+              "trackingParams": "CAcQ48UCGAIiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "YouTube Kids"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "YouTube Kids"
+                }
+              }
+            }
+          }
+        ],
+        "trackingParams": "CAYQ5isYBSITCI6FsZTU1YMDFfhlTAgdeAwERg==",
+        "formattedTitle": {
+          "simpleText": "More from YouTube"
+        }
+      }
+    },
+    {
+      "guideSectionRenderer": {
+        "items": [
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CAUQ6qgHGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/account",
+                    "webPageType": "WEB_PAGE_TYPE_SETTINGS",
+                    "rootVe": 23462,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "SPaccount_overview"
+                }
+              },
+              "icon": {
+                "iconType": "SETTINGS"
+              },
+              "trackingParams": "CAUQ6qgHGAAiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Settings"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Settings"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "navigationEndpoint": {
+                "clickTrackingParams": "CAQQtSwYASITCI6FsZTU1YMDFfhlTAgdeAwERg==",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "/reporthistory",
+                    "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                    "rootVe": 6827,
+                    "apiUrl": "/youtubei/v1/browse"
+                  }
+                },
+                "browseEndpoint": {
+                  "browseId": "SPreport_history"
+                }
+              },
+              "icon": {
+                "iconType": "FLAG"
+              },
+              "trackingParams": "CAQQtSwYASITCI6FsZTU1YMDFfhlTAgdeAwERg==",
+              "formattedTitle": {
+                "simpleText": "Report history"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Report history"
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "icon": {
+                "iconType": "HELP"
+              },
+              "trackingParams": "CAMQ46gHGAIiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Help"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Help"
+                }
+              },
+              "serviceEndpoint": {
+                "clickTrackingParams": "CAMQ46gHGAIiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "sendPost": true
+                  }
+                },
+                "signalServiceEndpoint": {
+                  "signal": "CLIENT_SIGNAL",
+                  "actions": [
+                    {
+                      "clickTrackingParams": "CAMQ46gHGAIiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                      "signalAction": {
+                        "signal": "HELP"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "guideEntryRenderer": {
+              "icon": {
+                "iconType": "FEEDBACK"
+              },
+              "trackingParams": "CAIQ4agHGAMiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+              "formattedTitle": {
+                "simpleText": "Send feedback"
+              },
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "Send feedback"
+                }
+              },
+              "serviceEndpoint": {
+                "clickTrackingParams": "CAIQ4agHGAMiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "sendPost": true
+                  }
+                },
+                "signalServiceEndpoint": {
+                  "signal": "CLIENT_SIGNAL",
+                  "actions": [
+                    {
+                      "clickTrackingParams": "CAIQ4agHGAMiEwiOhbGU1NWDAxX4ZUwIHXgMBEY=",
+                      "sendFeedbackAction": {
+                        "bucket": "Kevlar"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "trackingParams": "CAEQ5isYBiITCI6FsZTU1YMDFfhlTAgdeAwERg=="
+      }
+    }
+  ],
+  "trackingParams": "CAAQumkiEwiOhbGU1NWDAxX4ZUwIHXgMBEY="
+}
